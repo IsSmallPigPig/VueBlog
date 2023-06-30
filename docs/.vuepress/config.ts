@@ -3,7 +3,7 @@ import { searchPlugin } from '@vuepress/plugin-search'
 
 
 export default{
-    base: "/vuepressblog/",
+    base: "/VueBlog/",
     lang: 'zh-CN',
     title: 'Alpha Blog',
     description: '为所有人提供的学习网站',
